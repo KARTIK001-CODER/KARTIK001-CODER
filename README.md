@@ -92,10 +92,11 @@
 
 ### 🟨 Animated Contribution Graph (Pac-Man Style)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KARTIK001-CODER/KARTIK001-CODER/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KARTIK001-CODER/KARTIK001-CODER/output/github-snake.svg">
-  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/KARTIK001-CODER/KARTIK001-CODER/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KARTIK001-CODER/KARTIK001-CODER/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KARTIK001-CODER/KARTIK001-CODER/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/KARTIK001-CODER/KARTIK001-CODER/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ---
 
